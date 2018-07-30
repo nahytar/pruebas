@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+firebase.json
+data
+firebase-debug.log
+functions
+public/assets/JS/app.js
+public/assets/JS/app.js.map
+coverage/
